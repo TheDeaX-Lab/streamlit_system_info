@@ -1,4 +1,4 @@
 streamlit
 pandas
 psutil
-pexpect
+streamlit-ttyd
